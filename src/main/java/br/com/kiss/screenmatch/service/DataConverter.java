@@ -7,7 +7,6 @@ public class DataConverter implements IConvertData{
 
     private ObjectMapper mapper = new ObjectMapper();
 
-
     @Override
     public <T> T obtainData(String json, Class<T> classToConvert) {
         try {
