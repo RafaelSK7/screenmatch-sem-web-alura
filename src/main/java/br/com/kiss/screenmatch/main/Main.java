@@ -1,6 +1,5 @@
 package br.com.kiss.screenmatch.main;
 
-import br.com.kiss.screenmatch.model.EpisodeData;
 import br.com.kiss.screenmatch.model.SeasonData;
 import br.com.kiss.screenmatch.model.SerieData;
 import br.com.kiss.screenmatch.service.ApiConsumer;
